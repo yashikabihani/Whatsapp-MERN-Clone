@@ -23,4 +23,5 @@ The App has two parts : The SideBar and the chat-side
 Pusher - To make the MongoDB real Time(in the backend)
 Pusher-js : In the Frontend
 
-P.S : Do take the 'whatsapp-backend' folder outside this folder
+P.S : Do take the 'whatsapp-backend' folder outside this folder. So, two sub-folders (frontend and backend) into the main project.
+npm install into both the folders for dependencies.
