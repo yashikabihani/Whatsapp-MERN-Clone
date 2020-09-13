@@ -63,6 +63,7 @@
 
 .chat__footer {
     display: flex;
+    outline-width: 0;
     justify-content: space-between;
     align-items: center;
     height: 62px;
